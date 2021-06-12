@@ -1,0 +1,57 @@
+﻿Glwssiki Didaskalia,100,A,3
+Glwssiki Didaskalia,200,B,2
+Glwssiki Didaskalia,300,G,2
+Neoelliniki Logotexnia,101,A,2
+Neoelliniki Logotexnia,201,B,2
+Neoelliniki Logotexnia,301,G,2
+Arxaia Elliniki Glwssa,102,A,2
+Arxaia Elliniki Glwssa,202,B,2
+Arxaia Elliniki Glwssa,302,G,2
+Arxaia Ellinika Keimena apo Metafrash,103,A,2
+Arxaia Ellinika Keimena apo Metafrash,203,B,2
+Arxaia Ellinika Keimena apo Metafrash,303,G,2
+Mathimatika,104,A,4
+Mathimatika,204,B,4
+Mathimatika,304,G,4
+Fysiki,105,A,1
+Fysiki,205,B,2
+Fysiki,305,G,2
+Ximeia,206,B,1
+Ximeia,306,G,1
+Biologia,107,A,1
+Biologia,207,B,1
+Biologia,307,G,1
+Geografia,108,A,1
+Geografia,208,B,2
+Oikiaki Oikonomia,109,A,2
+Istoria,110,A,2
+Istoria,210,B,2
+Istoria,310,G,2
+Koinoniki kai Politiki Agwgi,311,G,2
+Thriskeftika,112,A,2
+Thriskeftika,212,B,2
+Thriskeftika,312,G,2
+Agglika,113,A,2
+Agglika,213,B,2
+Agglika,313,G,2
+Gallika,114,A,2
+Gallika,214,B,2
+Gallika,314,G,2
+Germanika,115,A,2
+Germanika,215,B,2
+Germanika,315,G,2
+Fusiki Agwgi,116,A,2
+Fusiki Agwgi,216,B,2
+Fusiki Agwgi,316,G,2
+Texnologia,117,A,1
+Texnologia,217,B,1
+Texnologia,317,G,1
+Pliroforiki,118,A,1
+Pliroforiki,218,B,1
+Pliroforiki,318,G,1
+Mousiki,119,A,1
+Mousiki,219,B,1
+Mousiki,319,G,1
+Kallitexnika,120,A,1
+Kallitexnika,220,B,1
+Kallitexnika,320,G,1
